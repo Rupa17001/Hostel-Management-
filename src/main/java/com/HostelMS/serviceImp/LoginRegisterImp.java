@@ -8,12 +8,15 @@ import com.HostelMS.dao.HostelDao;
 import com.HostelMS.daoImp.HostelDaoImp;
 import com.HostelMS.exception.GlobalException;
 import com.HostelMS.model.User;
+import com.HostelMS.service.AdminDashboard;
 import com.HostelMS.service.LoginRegister;
+import com.HostelMS.service.UserDashboard;
 
 import org.apache.log4j.Logger;
 
 public class LoginRegisterImp implements LoginRegister {
-	static Logger Log = Logger.getLogger(App.class);// logger class
+	
+	static Logger Log = Logger.getLogger(LoginRegisterImp.class);// logger class
 	static Scanner bs = new Scanner(System.in);// global scanner 
 	static HostelDao dao = new HostelDaoImp();// object
 	@Override
@@ -55,11 +58,9 @@ public class LoginRegisterImp implements LoginRegister {
 					+ "should have more than four characters and can have a-z , A-Z, digits and @ and # symbol"
 					+ "\n and you number should have 10 digits");
 		}
-		
-		
-		
-		
 	}
+	
+	
 
 	@Override
 	public void login() throws GlobalException {
@@ -78,6 +79,19 @@ public class LoginRegisterImp implements LoginRegister {
 		 else {
 			 Log.info("Somthing is wrong here!");
 		 }
+		
+		 //  * Once user log in then it shows them Dashboard depending on their Role(userRole)
+		 
+		 AdminDashboard ad1 = new AdminDashboardImp();
+		 UserDashboard ud1 = new UserDashboardImp();
+		 // to the user dashboard
+		 if (u1.getUserRole().equals("Student")) {
+			 ud1.dashboard(u1.getUserID());
+		 }
+		 //to the admin Dashboard
+		 else if  (u1.getUserRole().equals("Admin")) {
+			 ad1.dashboard();
+		 }
 	}
 
-}
+ }
