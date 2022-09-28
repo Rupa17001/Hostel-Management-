@@ -10,6 +10,7 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+
 //Getter,Setter and To String are LOMBOK annotations (used to remove the boiler plate)
 //Entity and Id are JPA, Entity : Table and Id : Primary Key
 @Entity
@@ -24,7 +25,9 @@ public class User {
 	private String userPhone;
 	private String userPassword;
 	private String userAddress;
+	private String userRole;
 	private int userFee;
 	@ManyToOne
 	private Room userRoom;
+	
 }
