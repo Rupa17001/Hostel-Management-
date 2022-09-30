@@ -64,7 +64,7 @@ public class LoginRegisterImp implements LoginRegister {
 
 	@Override
 	public void login() throws GlobalException {
-		Log.info("Here you can login");
+		Log.info("+++  Here you can login  +++");
 		Log.info("Enter User Name");
 		String uName = bs.next();
 		Log.info("Enter Password");
@@ -74,7 +74,8 @@ public class LoginRegisterImp implements LoginRegister {
 		 User u1 = dao.login(uName, uPwd);
 		 //if login method works properly in dao class
 		 if (u1 != null) {
-			 Log.info("Hey "+u1.getUserName()+" you have logged in successfully \n"+u1);
+			 Log.info("\n-----------------------------------------------------------------------------------------------------");
+			 Log.info("Hey "+u1.getUserName()+" you have logged in successfully \n");
 		 }
 		 else {
 			 Log.info("Somthing is wrong here!");
@@ -82,8 +83,8 @@ public class LoginRegisterImp implements LoginRegister {
 		
 		 //  * Once user log in then it shows them Dashboard depending on their Role(userRole)
 		 
-		 AdminDashboard ad1 = new AdminDashboardImp();
-		 UserDashboard ud1 = new UserDashboardImp();
+		 AdminDashboard ad1 = new AdminDashboardImp();// object of adminDashboard
+		 UserDashboard ud1 = new UserDashboardImp();// object of userDashboard
 		 // to the user dashboard
 		 if (u1.getUserRole().equals("Student")) {
 			 ud1.dashboard(u1.getUserID());

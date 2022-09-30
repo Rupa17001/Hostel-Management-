@@ -18,16 +18,17 @@ public class UserDashboardImp implements UserDashboard{
 	static Scanner scan = new Scanner(System.in);
 	
 	//this is visible on console to choose operations
-	// this is dashboard
+	// this is dashboard 
 	@Override
 	public void dashboard(int uId) throws GlobalException {
-		Log.info("\t\t********************  USER DASHBOARD  ***********************");
+		Log.info("\n\n\t\t\t********************  USER DASHBOARD  ***********************");
 		userId = uId;
-		Log.info("-> Press 1 to View Room\n ->  Press 2 to View the Due Amount\n  -> Press 3 to Change"
-				+ " Password\n  -> Press 4 to View Profile \n  -> Press 5 to change Phone Number");
+		
 		int op = 0;
 		while(op<6) {
-		op = scan.nextInt();
+			Log.info("\n\t\t\t------------- YOU CAN CHOOSE ANY OF THE FOLLOWING --------------\n  -> Press 1 to View Room\n  -> Press 2 to View the Due Amount\n  -> Press 3 to Change"
+					+ " Password\n  -> Press 4 to View Profile \n  -> Press 5 to change Phone Number\n  -> Press 6 to exit");
+			op = scan.nextInt();
 		
 			switch(op) {
 				case 1 -> udl.viewRoom();
@@ -35,6 +36,7 @@ public class UserDashboardImp implements UserDashboard{
 				case 3 -> udl.changePassword();
 				case 4 -> udl.viewProfile();
 				case 5 -> udl.changePhoneNumber();
+				case 6 -> udl.exit();
 			}
 		}
 		
@@ -87,6 +89,9 @@ public class UserDashboardImp implements UserDashboard{
 		if(st == 1) {
 			Log.info("Password is updated");
 		}
+	}
+	public void exit() {
+		 System.exit(0);
 	}
 }
 
