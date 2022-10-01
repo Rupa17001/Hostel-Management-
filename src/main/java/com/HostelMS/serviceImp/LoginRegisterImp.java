@@ -1,9 +1,15 @@
 package com.HostelMS.serviceImp;
 
 import java.util.Scanner;
-import java.util.regex.Pattern;
+import java.util.Set;
 
-import com.HostelMS.App;
+
+import javax.validation.ConstraintViolation;
+import javax.validation.Validation;
+import javax.validation.ValidatorFactory;
+import javax.validation.Validator;
+
+
 import com.HostelMS.dao.HostelDao;
 import com.HostelMS.daoImp.HostelDaoImp;
 import com.HostelMS.exception.GlobalException;
@@ -41,9 +47,21 @@ public class LoginRegisterImp implements LoginRegister {
 		u1.setUserRole("Student");
 		u1.setUserFee(0);
 		
-		// regular Expression to check the data format
-		if (Pattern.matches("[a-zA-Z]{4,}", uName)&& Pattern.matches("[0-9a-zA-Z@#]{4,}", uPwd)&& Pattern.matches("[0-9]{10,}", uPhone))
+		//creating object for Validator Factory
+		ValidatorFactory vf= Validation.buildDefaultValidatorFactory();
+		// Creating Validator Object to check Validation
+		Validator valid=vf.getValidator();
+		
+		//creating collection (set) of Constraints that'll display when the validators set rules will be violated 
+		Set<ConstraintViolation<User>> violations=	valid.validate(u1);
+		
+		//if validators violated
+		if(violations.size()>0)
 		{
+			for(ConstraintViolation<User> violate:violations)
+				Log.info(violate.getMessage());
+		}
+		else {
 			//if correct then dao action are performed
 			int status = dao.registration(u1);// from HostelDaoImp
 			if(status == 1) {
@@ -53,11 +71,7 @@ public class LoginRegisterImp implements LoginRegister {
 				Log.info("Somthing went wrong");
 				}
 		}
-		else {
-			throw new GlobalException("Invaid Data : \n Name must be alphabetic and should have more that 3 characters\nPassword "
-					+ "should have more than four characters and can have a-z , A-Z, digits and @ and # symbol"
-					+ "\n and you number should have 10 digits");
-		}
+		
 	}
 	
 	

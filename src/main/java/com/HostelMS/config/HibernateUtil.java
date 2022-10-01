@@ -15,6 +15,7 @@ public class HibernateUtil {
 		public static SessionFactory getSessionFactory() {
 			if (sesFactory == null) {
 				try {
+					// configuration and mapping (with session Factory in one shot)
 					Configuration config = new Configuration();
 					Properties prop = new Properties();
 					prop.put(Environment.DRIVER,"com.mysql.cj.jdbc.Driver");
@@ -29,10 +30,13 @@ public class HibernateUtil {
 					config.setProperties(prop);
 					config.addAnnotatedClass(User.class);
 					config.addAnnotatedClass(Room.class);
+					//building session
 					sesFactory = config.buildSessionFactory();
 									
 				}
+				//if try block gets exception than it'll be handled in catch
 				catch(Exception e){
+					
 					e.printStackTrace();
 					
 					return null;

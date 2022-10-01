@@ -45,7 +45,7 @@ public class AdminDashboardImp implements AdminDashboard{
 				case 4->{ad.allotRoom();}
 				case 5->{ad.deleteUser();}
 				case 6->{ad.usersInARoom();}
-				case 7->{ad.addInDueAmountint();}
+				case 7->{ad.addInDueAmount();}
 				case 8->{ad.paidDueAmount();}
 				case 9->{ad.viewGivenUserProfile();}
 				default ->{System.exit(0);}
@@ -153,13 +153,13 @@ public class AdminDashboardImp implements AdminDashboard{
 	
 	// press 7 : this method adds the due amount to the user's fee
 	@Override
-	public void addInDueAmountint() throws GlobalException {
+	public void addInDueAmount() throws GlobalException {
 		Log.info("Enter User Id :");
 		int uid =  sc.nextInt();
 		Log.info("Enter Due Amount :");
 		int amount =  sc.nextInt();
 		
-		int status =dao.addInDueAmountint(uid, amount);
+		int status =dao.addInDueAmount(uid, amount);
 		if (status == 1) {
 			Log.info("User's Fee updated successfuly");
 		}

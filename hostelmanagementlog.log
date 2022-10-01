@@ -2444,4 +2444,783 @@ User(userID=1, userName=Rupa, userPhone=9899653125, userPassword=5424, userAddre
   -> PRESS 8 to deduct paid Amount from User's Fee
   -> Press 9 to check the specific students data(profile)
   -> PRESS OTHER THAN ABOVE OPTIONS TO EXIT
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Here you can Register
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Name : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Password : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Phone Number : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Address : 
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Phone Number Should have 10 digits only
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - User name Should have more that 2 and less than 25 letters
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Password should have more than four characters and can have a-z , A-Z, digits and @ and # symbol
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Here you can Register
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Name : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Password : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Phone Number : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Address : 
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - !!  Phone Number Should have 10 digits only
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - !!  User name Should have more that 2 and less than 25 letters
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Here you can Register
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Name : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Password : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Phone Number : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Address : 
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - !!  Phone Number Should have 10 digits only
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - !!  User name Should have more that 2 and less than 25 letters
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Here you can Register
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Name : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Password : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Phone Number : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Address : 
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - !!  User name Should have more that 2 and less than 25 letters
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Here you can Register
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Name : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Password : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Phone Number : 
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter the Address : 
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - !!  Phone Number Should have 10 digits only
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - !!  Password should have more than four characters and can have a-z , A-Z, digits and @ and # symbol
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6588b715] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata
+  java.lang.IllegalStateException: Cannot get a connection as the driver manager is not properly initialized
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:220)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.internal.JdbcServicesImpl.configure(JdbcServicesImpl.java:51)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.convertSqlException(BasicConnectionCreator.java:129)
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:42)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:62)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.addConnections(DriverManagerConnectionProviderImpl.java:457)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:323)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:297)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections$Builder.build(DriverManagerConnectionProviderImpl.java:501)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildPool(DriverManagerConnectionProviderImpl.java:101)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure(DriverManagerConnectionProviderImpl.java:76)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.buildJdbcConnectionAccess(JdbcEnvironmentInitiator.java:146)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:66)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:175)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:173)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.build(MetadataBuildingProcess.java:86)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:479)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:85)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:709)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:746)
+	at com.HostelMS.config.HibernateUtil.getSessionFactory(HibernateUtil.java:34)
+	at com.HostelMS.config.HibernateUtil.getSession(HibernateUtil.java:50)
+	at com.HostelMS.daoImp.HostelDaoImp.login(HostelDaoImp.java:40)
+	at com.HostelMS.AppTest.testLogin(AppTest.java:55)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:628)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:117)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:184)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:180)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:127)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:135)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:170)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:154)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:90)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: 08S01
+  [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata
+  java.lang.IllegalStateException: Cannot get a connection as the driver manager is not properly initialized
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:220)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.internal.JdbcServicesImpl.configure(JdbcServicesImpl.java:51)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.convertSqlException(BasicConnectionCreator.java:129)
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:42)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:62)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.addConnections(DriverManagerConnectionProviderImpl.java:457)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:323)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:297)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections$Builder.build(DriverManagerConnectionProviderImpl.java:501)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildPool(DriverManagerConnectionProviderImpl.java:101)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure(DriverManagerConnectionProviderImpl.java:76)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.buildJdbcConnectionAccess(JdbcEnvironmentInitiator.java:146)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:66)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:175)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:173)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.build(MetadataBuildingProcess.java:86)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:479)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:85)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:709)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:746)
+	at com.HostelMS.config.HibernateUtil.getSessionFactory(HibernateUtil.java:34)
+	at com.HostelMS.config.HibernateUtil.getSession(HibernateUtil.java:50)
+	at com.HostelMS.daoImp.HostelDaoImp.login(HostelDaoImp.java:40)
+	at com.HostelMS.AppTest.testLogin(AppTest.java:55)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:628)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:117)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:184)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:180)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:127)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:135)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:170)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:154)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:90)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: 08S01
+  [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata
+  java.lang.IllegalStateException: Cannot get a connection as the driver manager is not properly initialized
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:220)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.internal.JdbcServicesImpl.configure(JdbcServicesImpl.java:51)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.convertSqlException(BasicConnectionCreator.java:129)
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:42)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:62)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.addConnections(DriverManagerConnectionProviderImpl.java:457)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:323)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:297)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections$Builder.build(DriverManagerConnectionProviderImpl.java:501)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildPool(DriverManagerConnectionProviderImpl.java:101)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure(DriverManagerConnectionProviderImpl.java:76)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.buildJdbcConnectionAccess(JdbcEnvironmentInitiator.java:146)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:66)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:175)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:173)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.build(MetadataBuildingProcess.java:86)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:479)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:85)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:709)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:746)
+	at com.HostelMS.config.HibernateUtil.getSessionFactory(HibernateUtil.java:34)
+	at com.HostelMS.config.HibernateUtil.getSession(HibernateUtil.java:50)
+	at com.HostelMS.AppTest.testLogin(AppTest.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:628)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:117)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:184)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:180)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:127)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:135)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:170)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:154)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:90)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: 08S01
+  [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata
+  java.lang.IllegalStateException: Cannot get a connection as the driver manager is not properly initialized
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:220)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.internal.JdbcServicesImpl.configure(JdbcServicesImpl.java:51)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.convertSqlException(BasicConnectionCreator.java:129)
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:42)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:62)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.addConnections(DriverManagerConnectionProviderImpl.java:457)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:323)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections.<init>(DriverManagerConnectionProviderImpl.java:297)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl$PooledConnections$Builder.build(DriverManagerConnectionProviderImpl.java:501)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.buildPool(DriverManagerConnectionProviderImpl.java:101)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure(DriverManagerConnectionProviderImpl.java:76)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.configureService(StandardServiceRegistryImpl.java:107)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:246)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.buildJdbcConnectionAccess(JdbcEnvironmentInitiator.java:146)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:66)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:175)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:173)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.build(MetadataBuildingProcess.java:86)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:479)
+	at org.hibernate.boot.internal.MetadataBuilderImpl.build(MetadataBuilderImpl.java:85)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:709)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:746)
+	at com.HostelMS.config.HibernateUtil.getSessionFactory(HibernateUtil.java:34)
+	at com.HostelMS.config.HibernateUtil.getSession(HibernateUtil.java:50)
+	at com.HostelMS.AppTest.testLogin(AppTest.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:628)
+	at org.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:117)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:184)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:180)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:127)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:135)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:38)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$5(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$7(NodeTestTask.java:125)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:135)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:122)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:80)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:32)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:51)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:170)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:154)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:90)
+	at org.eclipse.jdt.internal.junit5.runner.JUnit5TestReference.run(JUnit5TestReference.java:100)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: 08S01
+  [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3b24087d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4998e74b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@469a7575] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@60f77af] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@60f77af] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@27fe059d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5d878b25] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6fe595dc] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@28279a49] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@384fda47] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@384fda47] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2b73bd6b] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eb9a3ef] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@66f5a02e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@71e7adbb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  com.HostelMS.App  - 			---------------------------- Hostel Management System -----------------------------
+  [main] INFO  com.HostelMS.App  - -> Press 1 to Register
+  -> Press 2 to LOGIN
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - +++  Here you can login  +++
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter User Name
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Enter Password
+  [main] DEBUG org.jboss.logging  - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+  [main] INFO  org.hibernate.Version  - HHH000412: Hibernate ORM core version 5.6.11.Final
+  [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+  [main] WARN  org.hibernate.orm.connections.pooling  - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/HostelMS]
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001001: Connection properties: {password=****, user=root}
+  [main] INFO  org.hibernate.orm.connections.pooling  - HHH10001003: Autocommit mode: false
+  [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl  - HHH000115: Hibernate connection pool size: 20 (min=1)
+  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+  [main] INFO  org.hibernate.validator.internal.util.Version  - HV000001: Hibernate Validator 6.0.13.Final
+  [main] INFO  org.hibernate.orm.connections.access  - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@483b0690] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - 
+-----------------------------------------------------------------------------------------------------
+  [main] INFO  com.HostelMS.serviceImp.LoginRegisterImp  - Hey Bhaskara you have logged in successfully 
+
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - 
+			************************** ADMIN DASHBOARD **************************
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - 
+		-------------------------------- PRESS KEY TO PERFORM GIVEN OPERATONS ---------------------------------------
+
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - -> PRESS 1 To view All Rooms
+  -> PRESS 2 to view all Users
+  -> PRESS 3 to create a Room
+  -> PRESS 4 to allot Room to a User
+  -> PRESS 5 to delete a User's Data
+  -> PRESS 6 to check how many Users are in specific Room
+  -> PRESS 7 to add the Due Amount in User's Fee
+  -> PRESS 8 to deduct paid Amount from User's Fee
+  -> Press 9 to check the specific students data(profile)
+  -> PRESS OTHER THAN ABOVE OPTIONS TO EXIT
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - ROOM ID		 ROOM NAME 		ROOM TYPE 
+-------------------------------------------------------------------------------------------------------------------------
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  101		 Wing A1		 AC
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  102		 Wing A2		 AC
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  201		 Wing B1		 AC
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  202		 Wing B2		 Fan
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  103		 WingC		 Fan
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - 
+		-------------------------------- PRESS KEY TO PERFORM GIVEN OPERATONS ---------------------------------------
+
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - -> PRESS 1 To view All Rooms
+  -> PRESS 2 to view all Users
+  -> PRESS 3 to create a Room
+  -> PRESS 4 to allot Room to a User
+  -> PRESS 5 to delete a User's Data
+  -> PRESS 6 to check how many Users are in specific Room
+  -> PRESS 7 to add the Due Amount in User's Fee
+  -> PRESS 8 to deduct paid Amount from User's Fee
+  -> Press 9 to check the specific students data(profile)
+  -> PRESS OTHER THAN ABOVE OPTIONS TO EXIT
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - User ID		User NAME	Phone Number		Room ID 
+-------------------------------------------------------------------------------------------------------------------------
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  1		 Rupa		 9899653125		 102
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  2		 Paras		 9874563210		 102
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  3		 Swayam		 7896541230		 101
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - 
+		-------------------------------- PRESS KEY TO PERFORM GIVEN OPERATONS ---------------------------------------
+
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - -> PRESS 1 To view All Rooms
+  -> PRESS 2 to view all Users
+  -> PRESS 3 to create a Room
+  -> PRESS 4 to allot Room to a User
+  -> PRESS 5 to delete a User's Data
+  -> PRESS 6 to check how many Users are in specific Room
+  -> PRESS 7 to add the Due Amount in User's Fee
+  -> PRESS 8 to deduct paid Amount from User's Fee
+  -> Press 9 to check the specific students data(profile)
+  -> PRESS OTHER THAN ABOVE OPTIONS TO EXIT
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - Enter User Id :
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - User ID		User NAME	Phone Number		Address		Fee Pending		Role		Room ID		Room Name	Room Type
+------------------------------------------------------------------------------------------------------------------------------------------------------
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  -  1		 Rupa		 9899653125		 Faridabad		 210		 Student 	102	 	Wing A2		 AC
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - 
+		-------------------------------- PRESS KEY TO PERFORM GIVEN OPERATONS ---------------------------------------
+
+  [main] INFO  com.HostelMS.serviceImp.AdminDashboardImp  - -> PRESS 1 To view All Rooms
+  -> PRESS 2 to view all Users
+  -> PRESS 3 to create a Room
+  -> PRESS 4 to allot Room to a User
+  -> PRESS 5 to delete a User's Data
+  -> PRESS 6 to check how many Users are in specific Room
+  -> PRESS 7 to add the Due Amount in User's Fee
+  -> PRESS 8 to deduct paid Amount from User's Fee
+  -> Press 9 to check the specific students data(profile)
+  -> PRESS OTHER THAN ABOVE OPTIONS TO EXIT
   

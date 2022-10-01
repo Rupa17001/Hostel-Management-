@@ -106,7 +106,7 @@ try(Session ses = HibernateUtil.getSession()){
 	
 	//method 7 : add the dueAmount of user in userFee
 	@Override
-	public int addInDueAmountint(int uId, int amount) {
+	public int addInDueAmount(int uId, int amount) {
 		try(Session ses=HibernateUtil.getSession()){
 			ses.beginTransaction();
 			int dueamt=(int)ses.createQuery("select userFee from User where userId=:uId").setParameter("uId",uId).uniqueResult();
@@ -121,18 +121,27 @@ try(Session ses = HibernateUtil.getSession()){
 
 	//method 8 : subtracts the PaidAmount of user from userFee
 	@Override
-	public int paidDueAmount(int uId, int amount) {
+	public int paidDueAmount(int uId, int amount) throws GlobalException {
+		
 		try(Session ses=HibernateUtil.getSession()){
 			ses.beginTransaction();
 			int dueamt=(int)ses.createQuery("select userFee from User where userId=:uId").setParameter("uId",uId).uniqueResult();
+			//Subtracts amount from fee only if the Amount is more than 0
+				if(dueamt>0) {
+					dueamt-=amount;
+					int status=ses.createQuery("update User set userFee=:dueamt where userId=:uId").setParameter("dueamt", dueamt).setParameter("uId", uId).executeUpdate();
+					ses.getTransaction().commit();
+					return status;
+				}
+				//if amount is 0 then it raises exception
+					else{
+						throw new GlobalException(" There is no Due Amount :)");
+						}
+					}
+				
+			}
 		
-			dueamt-=amount;
-			int status=ses.createQuery("update User set userFee=:dueamt where userId=:uId").setParameter("dueamt", dueamt).setParameter("uId", uId).executeUpdate();
-			ses.getTransaction().commit();
-			return status;
-		}
-		
-	}
+	
 
 	//method 9 : returns the profile of specified user
 	@Override

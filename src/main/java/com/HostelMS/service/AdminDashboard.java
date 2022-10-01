@@ -13,7 +13,8 @@ public interface AdminDashboard {
 	public void allotRoom() throws GlobalException;
 	public void deleteUser() throws GlobalException;
 	public void  usersInARoom();
-	public void addInDueAmountint () throws GlobalException;
+	public void addInDueAmount () throws GlobalException;
 	public void paidDueAmount () throws GlobalException;
 	public void viewGivenUserProfile();
+	
 }

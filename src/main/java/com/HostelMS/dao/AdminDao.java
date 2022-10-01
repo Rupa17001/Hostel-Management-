@@ -13,7 +13,7 @@ public interface AdminDao {
 	public int allotRoom(int uId,int rId);
 	public int deleteUser(int uId);
 	public List<User>  usersInARoom(int rId);
-	public int addInDueAmountint (int uId, int amount);
-	public int paidDueAmount (int uId, int amount);
+	public int addInDueAmount (int uId, int amount);
+	public int paidDueAmount (int uId, int amount) throws GlobalException;
 	public User viewGivenUserProfile(int uId);
 }
